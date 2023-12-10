@@ -1,0 +1,134 @@
+body {
+    height: 100%;
+    background-image: linear-gradient(to bottom right,#00010D, #3B403F);
+}
+
+.border-line {
+    background-color: white;
+    height: 1px;
+    width: 30%;
+    margin-top: 25px;
+}
+.right-border {
+    display: flex;
+    justify-content: end;
+}
+.right-border-line {
+    background-color: white;
+    height: 1px;
+    width: 30%;
+    margin-bottom: 100px;
+}
+
+.container-fluid {
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.nav-link {
+    color: #D9D2D0;
+    font-weight: lighter;
+}
+
+.nav {
+    --bs-nav-link-hover-color: #8C8581;
+}
+
+.title {
+    color: white;
+    font-family: serif;
+    letter-spacing: 5px;
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    color: #D9D2D0;
+    font-family: 'Caveat', sans-serif;
+    font-size: 1.8rem;
+    text-transform: capitalize;
+}
+
+.title-section {
+    display: flex;
+    height: 72vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 150px;
+    padding-top: 200px;
+}
+
+.portrait-img {
+    height: 350px;
+    border-radius: 50%;
+    filter: grayscale(92%);
+
+}
+
+.title-about {
+    color: white;
+    font-family: serif;
+    letter-spacing: 3px;
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 50px;
+
+}
+
+.text-about {
+    color: #D9D2D0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.45rem;
+    font-weight: lighter;
+}
+
+.about-me {
+    margin-bottom: 200px;
+}
+
+.edu-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.resume {
+    margin-bottom: 100px;
+}
+
+li {
+    color: #D9D2D0;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.05rem;
+    font-weight: lighter;
+}
+
+.fw-bold {
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    font-weight: 100!important
+}
+
+.card {
+    --bs-card-bg: none;
+    color: #D9D2D0;
+    border: 0.5px white solid;
+    padding: 20px;
+    margin: 30px;
+}
+
+.li {
+    font-size: 1.4rem;
+    font-weight: lighter;
+    margin-bottom: 25px;
+    color: #D9D2D0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}

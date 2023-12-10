@@ -1,0 +1,68 @@
+Title:
+I'm Maria
+An incoming software engineer
+
+About me:
+Hello, my name is Maria Fernandez and I'm a senior at 
+California State University, Fullerton majoring in Computer Science.
+I'm passionate about web development; I'm currently improving my skills
+through an online full stack web development course. I take great pleasure in 
+both the challenges and rewards that come with learning and self-improvement.
+I'm excited and ready to embark on my career as a software engineer, eager to 
+apply my knowledge and contribute to impactful projects.
+
+Resume:
+Education:
+California State University, Fullerton
+Expected Graduation: May 2024
+Major: Computer Science
+
+Experience:
+Software Engineer Intern 
+JPMorgan Chase & Co.
+Summer 2023 - Columbus, OH
+
+Skills:
+Programming Languges and Web Development:
+- HTML
+- CSS
+- JavaScript
+- C++
+- Python
+
+Tools and Technologies:
+- Git 
+- AWS Cloud Practitiioner 
+- Linux
+- Bootstrap
+- React
+
+Relevant Course Work:
+- Data Structures and Algorithms
+- Operating System Concepts
+- File Structure and Database
+- Computer Organization and Assembly Language
+- Cyber Security Fundamentals
+- Mobile Development (iOS)
+- Artificial Intelligence 
+
+
+Projects:
+Tindog
+Class Project to build a website with Bootstrap.
+
+Mondrian Project
+Class Project to recrate an art piece with CSS grid.
+
+Portfolio website
+Designed and created a portfolio website with HTML and CSS.
+
+
+Contact Me:
+email: mariaibis1001@gmail.com
+linkedin: linkedin.com/in/maria-ibis
+github: github.com\mariaibis1001
+
+Footer:
+Copyright © Maria Fernandez. All rights Reserved.
+
